@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Little non-such: or, Certaine new questions moved out of ancient truths. I. concerning the words, let us make man after our own image. II. Whether that was a materiall apple which Adam did eate III. Whether the forbidding of marriage be not a Popish injunction onely, and not rightly grounded from the Scripture. Newly published with intent to finde out the truth if it be not here already.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88370</idno>
+            <idno type="STC">Wing L2552</idno>
+            <idno type="STC">Thomason E353_8</idno>
+            <idno type="STC">ESTC R3620</idno>
+            <idno type="EEBO-CITATION">99872436</idno>
+            <idno type="PROQUEST">99872436</idno>
+            <idno type="VID">159866</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88370)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159866)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E353[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Little non-such: or, Certaine new questions moved out of ancient truths. I. concerning the words, let us make man after our own image. II. Whether that was a materiall apple which Adam did eate III. Whether the forbidding of marriage be not a Popish injunction onely, and not rightly grounded from the Scripture. Newly published with intent to finde out the truth if it be not here already.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.P.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept: 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Criticism, interpretation, etc.</term>
+               <term>Bible. --  O.T. --  Genesis --  Commentaries.</term>
+               <term>Bible --  Evidence, authority, etc.</term>
+               <term>Marriage --  Religious aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:159866:1" rendition="simple:additions"/> LITTLE NON-SUCH: OR, Certaine new Queſtions Moved out of ANCIENT TRUTHS.</p>
+            <p n="1">
+               <hi>I. Concerning the words,</hi> Let us make man after our own Image.</p>
+            <p n="2">
+               <hi>II. Whether that was a materiall Apple which</hi> Adam
+<hi>did eate.</hi>
+            </p>
+            <p n="3">
+               <hi>III. Whether the forbidding of marriage be not a Popiſh injunction onely, and not rightly grounded from the Scripture.</hi>
+            </p>
+            <p>Newly publiſhed with intent to finde out the truth, if it be not here already.</p>
+            <q>Magna eſt veritas &amp; prevalent.</q>
+            <p>
+               <hi>London,</hi> Printed for <hi>H. P.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="notice">
+            <pb n="2" facs="tcp:159866:2"/>
+            <head>Advertiſement.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F any will prejudicate, or have not patience to examine a truth, how long ſoever concea<g ref="char:EOLhyphen"/>led or obſcured; or if he be fantaſticall and will laugh at his ſhadow, not diſcerning from whence it proceeds, let him put a part this ſerious (though little) diſcourſe; it is in<g ref="char:EOLhyphen"/>tended for better judgements.</p>
+            <p>Since theſe late eruptions in Church and State the minds of men are become much diſtracted; and no mar<g ref="char:EOLhyphen"/>vell, ſeeing the various opinions concerning civill Government in the firſt place, whether <hi>Monarkia, Ariſtocratia,</hi> or neither but a mixt; and ſome perhaps affecting
+<hi>Oligarchia,</hi> which is the worſt. Then as touching the rents in the Church, what ſhall ſuffice to be ſaid? ſince many both grave and learned Divines doe avouch, that all the hereſies fomented at ſeverall times, informer ages, and con<g ref="char:EOLhyphen"/>demned by ſeverall Councels, are now extant, attended with as many more; and how ſhall it be otherwaies? when both Fathers and Councels are derided and contemn'd (without controle) by the very off-ſcouring of the people; yea, even ſuch as ſetled and confirmed our Chriſtian faith (by refuting errors and hereſies the firſt 400 yeeres) which till now the Chriſtian world hath received for Orthodox: yet is it no wonder to ſee the Scripture abuſed and miſ-interpreted by every
+<hi>Mechanicke,</hi> miſ-applying the ſence to their fantaſticke humors; ſeeing there was never hereſie broached, but came with <hi>verbum Dei</hi> Scripture in the mouth: the divell him<g ref="char:EOLhyphen"/>ſelfe could finde no fitter way to vent his impoſtury, when he came to tempt our Saviour. Although it may be doubted whether or <pb n="3" facs="tcp:159866:2"/> no there be any thing new, that never was; for <hi>nihil dictum quod non dictum prius,</hi> nothing ſaid that was not ſaid before; yet many matters are daily opened, which have been ſhut up and clouded by the <hi>Romiſh Church</hi> ſince the time of <hi>Phocas</hi> the Emperour when that <hi>Hierarchy</hi> begun to uſurp upon the reſt: And likewiſe many errors and hereſies that ſeeme to be new are but the ſame in ſubſtance, they were in former times, yet perhaps with ſome
+<hi>additions</hi> as abſurd as the principall. Now to reduce the Primitive purity will be a worke too hard for mans capacity; it muſt be God onely in his good time, who for our pride, vainglory, hypocriſie, and perhaps infidelity, hath ſuffered us to fall into theſe fractions and diſtem<g ref="char:EOLhyphen"/>pers. But in the mean time if ſome grave and learned man will a little trouble himſelfe to reſolve a few following queſtions, it may give comfort to weake conſciences that are in doubt, and per<g ref="char:EOLhyphen"/>chance afflicted.</p>
+            <p>And herein we deteſt to be curiouſly inquiſitive in things not neceſſary, but onely covet the health of our ſoules, and the bettering of our underſtandings.</p>
+         </div>
+         <div type="text">
+            <p>BEginning then with the firſt Booke of <hi>Moſes</hi> called
+<note n="*" place="margin">Ch. 7. v. 26.</note> 
+               <hi>Geneſis. And God ſaid, Let us make man after our likeneſſe,</hi> V. 27. <hi>in the Image of God created he him, male and female created, &amp;c.</hi> Some then (ſeeing the ſhape and forme that man beares in his perſonall appearance) doe conceive, that God the Creator beareth the ſame form in ſhape and perſon: ſome others ſay, this Image is meant, in the likeneſſe to our maker in ſoule and ſpirit; and therefore blame them that imagine, or ſet him forth in the likeneſſe of any humane ſhape: To that is anſwered againe, that the Text formerly cited cannot be meant of ſoule and ſpirit, becauſe at that time man was not a living ſoule; for proofe they ſay that God finiſhed his work in ſix daies, whereof the making of man was part, and reſted the
+<note n="*" place="margin">Ch. 2. v. 3.</note> ſeventh, and hallowed it: but after the ſeventh day he breathed life into man, and made him a living ſoule, <hi>Chap.</hi> 2. <hi>v.</hi> 7. Therefore he was made according to the likeneſſe of God in perſonall ſhape, becauſe at his firſt making he was not a living ſoule, till after God had reſted the ſeventh day, and then breathed life into him, as is formerly proved: And long after his tranſgreſſion, God ſaid
+<note n="*" place="margin">Ch. 3. v. 22.</note> 
+               <hi>the man is become like one of us;</hi> ſo it ſeems at firſt he had not a
+<hi>ſpirituall</hi> 
+               <pb n="4" facs="tcp:159866:3"/> 
+               <hi>underſtanding:</hi> It is likewiſe ſaid, God ſhewed unto <hi>Moſes</hi> his back parts, but his face ſhould not be ſeen
+<note n="*" place="margin">Exod. 33.23.</note>; therefore if he have back parts, and a face, he hath a ſhape, which when he pleaſeth he can make viſible, as then he did. And the Lord ſpake to <hi>Moſes</hi> face to face, as a man ſpeaketh to his friend
+<note n="*" place="margin">Ch. 33. v. 7.</note>
+               <hi>:</hi> Moreover what were the three men that appeared to <hi>Abraham</hi> as he ſate in the tent? if not the <hi>Trinity</hi>
+               <note n="*" place="margin">Ch. 18. v. 2.</note> which did afterwards eate of the Cake that <hi>Sara</hi> made, and the Calfe which <hi>Abraham</hi> fetch'd from the fold, as appeares, <hi>v.</hi> 8. Now though it is, and muſt be acknowledged, that God is ſo infinite in wiſdome and power, that therein he cannot be <hi>cir<g ref="char:EOLhyphen"/>cumſcribed</hi> nor <hi>comprehended;</hi> yet (ſay ſome) that doth not hinder a perſonall ſhape or proportion: But ſome others (notwithſtan<g ref="char:EOLhyphen"/>ding thoſe plaine ſeeming proofes, doe not allow that God hath any bodily ſhape at all; which if it be ſo reſolved, and theſe things reconciled, to better proofs and reaſons out of Scripture by one that is wiſe and learned it will ſatisfie.</p>
+            <p>THe ſecond queſtion ariſeth out of <hi>Geneſis. And the Lord</hi>
+               <note n="*" place="margin">Gen. 2.16, 17</note> 
+               <hi>ſaid, of every Tree of the garden thou mayſt eate, but of the Tree of the know<g ref="char:EOLhyphen"/>ledge of good and evill: for in the day that thou eateſt thereof thou ſhalt ſurely die.</hi> Now ſome make a queſtion whether it were a <hi>materiall Apple</hi> that <hi>Adam</hi> did eate at the inſtance of his wife
+<hi>Eue.</hi> And if the queſtion be of the <hi>Species,</hi> it may well be doubted, for it doth not appeare in the Text to be an <hi>Apple</hi> more then a <hi>Figge, or other Fruit;</hi> onely in generall tearmes it is called
+<hi>the fruit of the</hi>
+               <note n="*" place="margin">Ch. 3. v. 2, 3.</note> 
+               <hi>Tree in the middeſt of the Garden:</hi> But I ſuppoſe the queſtion is not of the
+<hi>Species,</hi> but whether it were a materiall fruit, and ſo to be under<g ref="char:EOLhyphen"/>ſtood in literall ſence. It ſeems it ſhould be ſo underſtood in the <hi>ſixt verſe, When the woman ſaw the tree was good for food, and to be de<g ref="char:EOLhyphen"/>ſired to make one wiſe, ſhe did eate, and gave unto her husband, &amp;c.</hi> What can be plainer for a literall conſtruction? yet ſome will have the whole matter to be an <hi>Allegory;</hi> and underſtand by the
+<hi>Serpent</hi> in this place no other then <hi>concupiſcence,</hi> and by
+<hi>the fruit of the Tree in the midſt of the Garden,</hi> ſome other thing then the eating of a materiall Apple, becauſe of ſome other words in the ſtory that ſeems to carry a ſpirituall ſence, as <hi>verſ.</hi> 15.
+<hi>I will put enmity betwixt thy ſeed and the womans ſeed;</hi> ſhall this be underſtood of the old ſer<g ref="char:EOLhyphen"/>pent the <hi>Divel?</hi> we ſuppoſe that he and his Angels were caſt out of Heaven before the creation of man; but in this Chapter the Ser<g ref="char:EOLhyphen"/>pent <pb n="5" facs="tcp:159866:3"/> here is expreſly called a beaſt of the field. But if by this beaſt
+<note place="margin">Verſ. 1.</note> you will underſtand
+<hi>concupiſcence,</hi> it may perhaps in a <hi>ſpirituall ſenſe</hi> be ſaid to be the ſeed of the Divell, becauſe it works in the fleſh by his inſtigation. <hi>The day thou eateſt thereof,</hi> ſaith the Lord,
+<hi>thou ſhalt ſurely</hi>
+               <note n="*" place="margin">Ch. 2. v. 17.</note> 
+               <hi>die.</hi> And the Serpent ſaid, <hi>ye ſhall not ſurely die, Chap.</hi> 3. <hi>v.</hi> 4. Now we ſee in the verſes following, they did not die the day they did eate, but had mulcts, and puniſhments threatned, as the Ser<g ref="char:EOLhyphen"/>pent to goe on his belly, and lick the duſt; the woman to bring forth children in ſorrow; the man to get his living by the ſweat of his brow, the earth to be curſed, &amp;c. And <hi>Chap.</hi> 3. <hi>v.</hi> 22, 23. <hi>Leaſt he put forth his hand and take of the tree of life, and live forever. There<g ref="char:EOLhyphen"/>fore the Lord God ſent them forth of the Garden, &amp;c.</hi> This ſeems alſo to have ſome other ſence, for we are not taught to live for ever by <hi>carnall eating.</hi> Reſolve if you pleaſe the doubt of this queſtion with the former.</p>
+            <p>THe next queſtion is of marriage, <hi>Geneſis</hi>
+               <note n="*" place="margin">Ch. 2. v. 18.</note>. <hi>And the Lord God ſaid it is not good for man to be alone, I wil make him a help meet for him. verſ.</hi> 21, 22. God tooke one of <hi>Adams</hi> ribs, made a woman, and brought her unto him, <hi>v</hi> 23. <hi>Adam</hi> ſaid, <hi>this is bone of my bone, and fleſh of my fleſh,</hi> which is one fleſh, <hi>v.</hi> 24. How comes it then that there are forbidden degrees in marriage? or is it not ſo in truth, but a <hi>Popiſh injunction for their profit?</hi> for in that reſpect they have given their diſpenſations <hi>ad infinitum</hi> to the neereſt kindred. To recite particulars in a matter ſo well known (as the houſes of <hi>Au<g ref="char:EOLhyphen"/>ſtria, Burbon,</hi> and many others) where profit or State policy is at ſtake) were onely to ſpend Inke and Paper. Then if it may be done by diſpenſation, and for money, which is but an Ordinance of man; why may it not much more be done without, ſeeing it is the Ordinance of God himſelfe? You know what <hi>Peter</hi> ſaid to <hi>Simon Magus, Thou and thy money periſh, becauſe thou thinkeſt that theſe things may be bought for money.</hi> And here we ſee the woman is not of the man derivatively, and by deſcent, but of his own <hi>proper ſub<g ref="char:EOLhyphen"/>ſtance;</hi> then in regard there can be no more matches of this nature, the very next of kin were to joyn in marriage, and that both by cuſtome and command. For example, we finde that
+<hi>Sara</hi> was <hi>A<g ref="char:EOLhyphen"/>brahams</hi> ſiſter, whom he took to wife; a better preſident we can not have, for he was the father of the faithfull; his ſeed ſhould be multiplied as the Stars in Heaven; all the Nations of the earth be bleſſed therein
+<note n="*" place="margin">Gen: 22. 17, 18.</note>, &amp;c.</p>
+            <p>
+               <pb n="6" facs="tcp:159866:4"/> If it be ſaid, that when <hi>Abraham</hi> went down to ſojourne in <hi>Aegypt</hi> becauſe of the famine, he wiſh'd his wife to ſay ſhe was his ſiſter, leſt the <hi>Aegytians</hi> ſhould kill him and take her to themſelves, for ſhe was a faire woman to looke upon
+<note n="*" place="margin">Gen. 12. v. 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 12, 13.</note>. And from thence you will argue, that to be but ſimulation betwixt them to ſave his life; then it will appeare in the ſame book of <hi>Geneſis</hi> that in his returne to the South Countrey, they uſed the like practice, in ſaying ſhe was his ſiſter In ſo much that <hi>Abimelech King of Gerar</hi> tooke
+<hi>Sara,</hi> but the Lord kept <hi>Abimelech</hi> from touching her, and reproved him for taking another mans wife; whereupon <hi>Abimelech</hi> blam'd
+<hi>Abraham,</hi> ſaying, <hi>What ſaweſt thou that thou haſt done this thing? Abraham</hi> replied, <hi>I thought the feare of God is not in this place, and they will kill me for my wifes ſake:</hi> yet to let him know that he had not diſſembled totally, he ſaid, indeed <hi>ſhe is my ſiſter, for ſhe is the daugh<g ref="char:EOLhyphen"/>ter of my father, and ſhe became my wife</hi>
+               <note n="*" place="margin">Gen. 20 12.</note>. Moreover <hi>Cha.</hi>
+24. <hi>v.</hi> 4. <hi>A<g ref="char:EOLhyphen"/>braham</hi> cauſed his ſervant to ſweare, charging him to goe to his owne Countrey, and to his kindred to chuſe a wife for his ſonne <hi>Iſaac.</hi> And ſo naturally confident were the ſervants of God in pro<g ref="char:EOLhyphen"/>pagating by the next of kin, that <hi>Lots daughters</hi> (when they fled out of <hi>Sodome</hi> with their father, where the reſt of their kindred peri<g ref="char:EOLhyphen"/>ſhed) did not doubt to raiſe up ſeed to their father, ſaying, <hi>There is not a man alive to come in unto us after the manner of the earth, there<g ref="char:EOLhyphen"/>fore let us lie with him, &amp;c.</hi> Now there were thouſands (not to be
+<note n="*" place="margin">Gen. 19 31, 32.</note> numbred) left alive, but there was none of their <hi>Tribe and kindred,</hi> for ſo the Text ſeems to infer. We know alſo that many things are writ for our inſtruction not for our imitation; and ſo <hi>Lot</hi> might juſtly be blamed for drinking ſo liberally, that he perceived not what he did (which we ought not to imitate) yet we finde no reproofe upon the daughters, becauſe (it ſeems) what they did was onely for propagation, according to the inſtitution, and not to ſatisfie appetite. This appeares by their
+<hi>interchange;</hi> yet Dr <hi>Willet</hi> ſaith they did offend, and brings with him <hi>Auguſtines</hi> opinion, which is, that they ſhould have done far better to have acquainted their father, ſo then (belike) all had been well enough: But with<g ref="char:EOLhyphen"/>all in the ſame <hi>Annotations of Levit.</hi>
+18.) he brings againſt him<g ref="char:EOLhyphen"/>ſelfe a Jury of Doctors that juſtifies their intention to be good and lawfull in their caſe, viz. <hi>Soto, Lopes, Ledeſma, Bellarmine, L<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>inus,</hi> with three of the Fathers alſo, <hi>Chryſoſtome, Theodores,</hi> and <hi>Origen,</hi> 
+               <pb n="7" facs="tcp:159866:4"/> and (we ſee) God gave a bleſſing unto their act, for the Text ſaith, they were with child, and there proceeded from them two great Nations, the <hi>Moabites</hi> and the
+<hi>Ammonites.</hi> And that theſe children were bleſſed appeares more plainly, where the children of <hi>Iſrael</hi> in their warfaring journey were forbidden to diſtreſſe them, and not to meddle with them, for the Lord would not give them of the Land which he had given to the foreſaid children of <hi>Lot</hi> for a poſ<g ref="char:EOLhyphen"/>ſeſſion
+<note n="*" place="margin">Gen. 13. 37, 38.</note>
+               <hi>:</hi> If you ſay that notwithſtanding they were afterwards ſmitten and warred againſt: ſo was it likewiſe with the moſt cho<g ref="char:EOLhyphen"/>ſen people (according to the covenant) for their Idolatry, infide<g ref="char:EOLhyphen"/>lity, &amp;c. The
+<hi>Ephramites</hi> fell by the men of <hi>Gilead,</hi>
+               <note n="*" place="margin">Deut. 2.18, 19.</note> 42000 at one time, and it were ſupererrogate to cite the ſeverall places of Scrip<g ref="char:EOLhyphen"/>ture, where the <hi>Iſraelites</hi> were puniſhed, and carried captive, and caſt off into a reprobate ſenſe, as now they are at this day for their tranſgreſſion; but that will be no argument to prove that propa<g ref="char:EOLhyphen"/>gating by their neereſt kindred (which they were commanded) was the cauſe: but moſt certaine their <hi>hardneſſe of heart, infidelity, and idolatry,</hi> which was forbidden. For was not <hi>Moſes</hi> the meekeſt man, and
+<hi>Aaron,</hi> the ſonnes of <hi>Amram,</hi> who married <hi>Jocabed</hi> his Aunt?</p>
+            <p>The next place that ſeems to fortefie this opinion againſt all op<g ref="char:EOLhyphen"/>poſition, is that of <hi>Judagh</hi> and <hi>Tamar</hi> his daughter in law, which you have in <hi>Geneſis</hi> 38. throughout the whole Chapter; there ſhall you finde the wilfull and unnaturall treſpaſſe of
+<hi>Onan</hi> in refuſing to performe the <hi>kinſmans duty,</hi> and therefore the Lord deſtroyed him: but what ſhall we thinke of
+<hi>Judahs</hi> intention? can we ap<g ref="char:EOLhyphen"/>prove of it? no verily; he tooke her for
+<note n="*" place="margin">Judges 12.6.</note> a <hi>Harlot:</hi> yet was the ſincerity and integrity of <hi>Thamar</hi> ſo ſublime, that from her Iſſue
+<note place="margin">Verſ. 15.</note> upon that conjunction came the Saviour of the world; for from <hi>Phares</hi> deſcended <hi>Boas, David,</hi> and conſequently our Saviour <hi>Jeſus Chriſt</hi> according to the fleſh: and now old <hi>Judah</hi> could ſay, (be<g ref="char:EOLhyphen"/>cauſe I have not performed what I ought of my part) ſhe hath been more righteous then I.</p>
+            <p>Well, yet let us object <hi>Levit.</hi> 18. the prohibition there, with the gloſſe upon the Text, entituled unlawfull marriages; but we ſup<g ref="char:EOLhyphen"/>poſe it is a Popiſh gloſſe, and of purpoſe miſ-interpreted to in<g ref="char:EOLhyphen"/>creaſe his coffers: for it will appeare hereafter that the uncovering of nakedneſſe there mentioned, is meant of <hi>fornication onely, and not of marriage:</hi> yet the <hi>Popes purſe</hi> upon that pretence hath pickt
+<pb n="8" facs="tcp:159866:5"/> up many large fees, eſpecially where the joyning of
+<hi>Kingdomes</hi> or <hi>Dukedomes</hi> together hath been ſought more for politick ends, (and chiefly if his owne cauſe hath been intereſted) then the par<g ref="char:EOLhyphen"/>ties owne particular liking. But now who is ſo ignorant to believe that any <hi>ſinfull man</hi> can diſpenſe with what God hath comman<g ref="char:EOLhyphen"/>ded or forbidden. In the beginning men gave gifts and preſents for fit wives of their owne Linage; as appeares,
+<note n="*" place="margin">Gen. 24.22.</note> where <hi>Abrahams</hi> ſervant gave <hi>Rebecca</hi> the <hi>Earings</hi> and the
+<hi>Bracelets:</hi> now ſince mens owne covetouſneſſe, or the
+<hi>Popes,</hi> have forbid ſuch wives as is moſt naturall; the cuſtome is to barter and exchange for ſtrangers <hi>ſo much money, ſo much land, &amp;c.</hi> as you doe for other things in fayre or market.</p>
+            <p>But to returne, the Anſwer to the foreſaid prohibition in
+<hi>Levi<g ref="char:EOLhyphen"/>ticus</hi> 18. is, that the many Lawes given in that booke were not perpetuall, but onely given to buſie the minds of the children of
+<hi>Iſrael</hi> for that preſent, and to divert their inclination from
+<hi>Idolatry,</hi> unto which they were ſo ſubject from their deliverance out of <hi>Aegypt,</hi> in their march to <hi>Canaan,</hi> and perhaps for ſome other rea<g ref="char:EOLhyphen"/>ſons known to men of learning: for who doth believe it is not lawfull to eate <hi>Hare or Coney, Swines fleſh, &amp;c.</hi> or to weare linnen and woolen, plow with beaſts of ſeverall kinds; with many other
+<hi>prohibitions,</hi> whereof that Booke is full, as well as in the degrees in kindred: They were alſo peculiar to that people, and therefore not binding elſewhere, eſpecially to Chriſtians under the Goſpel. But to make the matter more cleare, let us ſee how we can prove the prohibition in theſe degrees, to be meant of Fornication, as is formerly mentioned, and not of the holy inſtitution of mar<g ref="char:EOLhyphen"/>riage, for inſtance in the foreſaid, 18 <hi>ch. &amp;</hi> 16. <hi>ver.</hi> it is ſaid, <hi>Thou ſhalt not uncover the nakedneſse of thy brothers wife, it is thy brothers nakedneſſe:</hi> uncover the nakedneſſe, marke that; though the <hi>Pope and ambitious men</hi> would delude us, the holy Ghoſt is very wary; the Text here ſpeaks not of marriage, but uncovering nakedneſſe: and now repaire to
+<hi>Deut.</hi> 25. verſ. 5. There you ſhall finde that if a brother die the wife of the dead ſhall not marry unto a ſtranger, <hi>her husbands brother ſhall goe in unto her, take her to wife, and performe the duty of a husbands brother unto her.</hi> The reſt of the verſes fol<g ref="char:EOLhyphen"/>lowing ſhewes how diſgracefully, and with what reproach he was to be uſed that refuſed to perform this duty. So you ſee there is a <pb n="9" facs="tcp:159866:5"/> vaſt difference betwixt uncovering of nakedneſſe, and taking to wife; for elſe did not theſe two Texts controvert each other <hi>point-blanke,</hi> if they were meant of one and the ſelfeſame matter? what is then the right expoſition? no other then this; by uncovering of nakedneſſe is meant fornication, as is formerly ſaid, which in kindred is utterly forbidden; but the other Text in
+<hi>Deutronomy</hi> ſpeakes expreſly of marriage, and taking to wife, which is like<g ref="char:EOLhyphen"/>wiſe in kindred as directly commanded. One other gradation may here be added, to wit, that the taking of ſtrange women was ſome<g ref="char:EOLhyphen"/>times in cuſtome, for it was no wonder before nor after to ſee men have children by concubines, which they kept beſides their wives. And the children of
+<hi>Iſrael</hi> were commanded to kill all the males among the
+<hi>Midianites,</hi> but to keepe the women to themſelves
+<note n="*" place="margin">Num. 31.18.</note>: we likewiſe read the
+<hi>Levite</hi> had by him two Aſſes ſadled, his con<g ref="char:EOLhyphen"/>cubine was alſo with him, <hi>Judges</hi> 19. 10. but in regard that mar<g ref="char:EOLhyphen"/>riage is honourable, and the free woman more Noble then the bond-woman, that great duty we ought to performe to our next of kin; for ſo did <hi>Abraham</hi> to <hi>Sara</hi> that was his wife and ſiſter; but his coneubine was <hi>Hagar</hi> the bond woman, which <hi>Sara</hi> after<g ref="char:EOLhyphen"/>wards dealt hardly with, and cauſed her to flie
+<note n="*" place="margin">Gen. 16. 6.</note>. Here we are to note, that <hi>Sara</hi> the kinſwoman was a Type of the true Church, and
+<hi>Hagar</hi> the contrary: Moreover you ſhall finde what curſes were threatned to ſuch as married with ſtrangers (out of their Tribes) as namely, they ſhould be ſnares and traps unto them,
+<note n="*" place="margin">Jeſh. 23. 12, 13.</note> ſcourges in their ſides, and thorns in their eyes, with many other of this kind, which whoſo pleaſe to ſtudy may finde at large. And that this practice of marriage with kindred was in uſe, not onely be<g ref="char:EOLhyphen"/>fore the prohibition in
+<hi>Leviticus,</hi> already anſwered, but everſi<g ref="char:EOLhyphen"/>thence, and never forbid, in the <hi>Law or Goſpell,</hi> for ought we can finde, is the next thing we ſhall endeavour to prove: alledging then ſome preſidents after the foreſaid booke of <hi>Leviticus,</hi> (perhaps omitting many) we will begin with the marriage of the daughters of <hi>Selophabad,</hi> who married with their kindred by the Lords ſpe<g ref="char:EOLhyphen"/>ciall appointment
+<note n="*" place="margin">Num, 36.</note>. Then the foreſaid Text in <hi>Deutronomy,</hi> tou<g ref="char:EOLhyphen"/>ching the marriage of the brothers wife,
+<hi>Ch.</hi> 25. <hi>v.</hi> 5. And <hi>Othinel</hi> the valiant man was rewarded with <hi>Achſah</hi> his next kinſwoman, who alſo obtained a further boon of her father
+<note n="*" place="margin">Judges 1. 13.</note>. The ſtory of
+<hi>Boas</hi> and <hi>Ruth</hi> is worthy our obſervation, it is ſo full of goodneſſe and <pb n="10" facs="tcp:159866:6"/> charity, conducing alſo to our argument; firſt, we ſee that <hi>Naomy, Ruths</hi> mother in law inſtructed her how to behave herſelfe towards <hi>Boas,</hi> that ſhe might not be unprovided, as knowing, (it ſeems) the inflexible nature of her very next kinſman: whereupon (after <hi>Ruth</hi> had uttered theſe words unto <hi>Boas, Spread therefore thy skirt over thy handmaid, for thou art a neere kinſman) Boas</hi> replied, <hi>Bleſſed be thou of the Lord, for thou haſt not followed young men, whether poore or rich.</hi> Then
+<hi>Boas</hi> called into judgement the <hi>next kinſman,</hi> who out of covetouſneſſe ſuffered the accuſtomed diſgrace, for refuſing to performe the duty he ought to have done: And <hi>Boas</hi> (as the next in degree) tooke <hi>Ruth</hi> to be his
+<note n="*" place="margin">Ruth 4.10.</note> wife. In this ſtory we diſcerne the many vertues of <hi>Ruth;</hi> it is to be obſerved alſo that ſhe was a <hi>Moa<g ref="char:EOLhyphen"/>biteſſe,</hi> of the line of <hi>Lot,</hi> and of the iſſue he had by his daughters of this off-ſpring, ſhortly after came the <hi>Prophet David,</hi> from whom alſo in proceſſe of time) proceeded the Saviour of mankind.</p>
+            <p>Next we obſerve the paſſage betwixt <hi>Ammon</hi> and
+<hi>Tamar,</hi> where it is ſaid, that <hi>Ammon</hi> loved <hi>Tamar</hi> in an unlawfull manner, which the mayd as diſcreetly reproved, deſiring him not to force her, but to aske her of the King for a wife, in that ſence ſhe knew the King would not withhold her
+<note n="*" place="margin">2 Sam. 4.13.</note>; but <hi>Ammon</hi> after his luſt was ſatisfied, deſpiſed her, which act turned to his confuſion, and was the occa<g ref="char:EOLhyphen"/>ſion of his ſlaughter. Still we ſee the ſiſter did not doubt to be her brothers wife, but did deteſt the act of
+<hi>fornication,</hi> (which certain<g ref="char:EOLhyphen"/>ly is the thing meant in the forbidden degrees formerly mentioned. And aſſuredly alſo that act proceeding from luſt in kindred, is the higheſt degree of <hi>fornication,</hi> and of ſome perhaps not improperly termed <hi>inceſt,</hi> if there be ſuch a diſtinction: But for the holy in<g ref="char:EOLhyphen"/>ſtitution of marriage with the next of Kindred. We ſee (by all ex<g ref="char:EOLhyphen"/>amples <hi>before and after,</hi> it hath not onely been permitted but com<g ref="char:EOLhyphen"/>manded.</p>
+            <p>Neither doe we finde any thing to the contrary in the whole progreſſe of the Goſpell, but ſtill reproofe of fornication, and eſpecially amongſt kindred, which ſeems to confirme what is for<g ref="char:EOLhyphen"/>merly ſaid; for ſo St. <hi>Paul, It is reported commonly that there is forni<g ref="char:EOLhyphen"/>cation</hi>
+               <note n="*" place="margin">1 Cor. 5.</note> 
+               <hi>amongſt you, and ſuch as is not uſed among the Gentiles, that one ſhould have his fathers wife.</hi> But the ſame Saint <hi>Paul</hi> hath theſe fol<g ref="char:EOLhyphen"/>lowing words in the ſame booke, <hi>Ch.</hi> 7, <hi>v.</hi> 3. touching marriage. <hi>To avoyd fornication, let every man</hi> (excepting no degree or profeſſion)
+<pb n="11" facs="tcp:159866:6"/> 
+               <hi>have his own wife, and let every woman have her own husband.</hi> And in verſe 4. <hi>the wife hath not power of her own body, but the husband; nor the husband power of his own body, but the wife,</hi> in the ſingular number. From hence may be inferred, that men ſince the Goſpell ought not to have <hi>plurality of wives;</hi> but neither there, nor in any other place where the like precept is given, is there any exception to the next of kin, but in caſe of <hi>fornication</hi> aforeſaid. <hi>Then let every man have his own wife;</hi> this doth moſt and beſt repreſent the miſtery betwixt Chriſt and his Spouſe the Church; elſe where it is ſaid, <hi>the man and his wife is one fleſh,</hi> not the man and his wives. Although the <hi>Patriarks and Prophets</hi> (under the Law) had plurality of wives for the greater increaſe of a <hi>good Tribe,</hi> or for other rea<g ref="char:EOLhyphen"/>ſons and miſteries, which here we have not time to diſcuſſe. And though the <hi>Turks</hi> and other Nations doe allow themſelves plura<g ref="char:EOLhyphen"/>lity of wives (perhaps alleaging the foreſaid cuſtome of the <hi>Patri<g ref="char:EOLhyphen"/>arks)</hi> as alſo to uphold the vaſtneſſe of their Empire, having ſuch uſe for unmerous Armies, yet we take their reaſons to be more ſen<g ref="char:EOLhyphen"/>ſuall and politick then religious; for we that live under the Goſpell ought to conforme our ſelves unto that rule; <hi>Let every one have his own wife,</hi> in the ſingular mumber aforeſaid; but then (ſeeing there is not one word in the Goſpell to the contrary) that any Popiſh Ordinance or other ſhould bar a man to chooſe that ſingle woman he liketh beſt to be his wife (if ſhe be alſo conſenting, and of ripe judgement) ſeems to be both againſt the law of nature and reaſon. Wherefore we conclude this point with the Apoſtles words, that the forbidding of marriage is the <hi>doctrine of devils.</hi> Again, <hi>marriage</hi>
+               <note n="*" place="margin">1 Tim. 4.3.</note> 
+               <hi>is honourable</hi> in all, <hi>and the bed undefiled, but whoremongers and adul<g ref="char:EOLhyphen"/>terers God will judge, Heb.</hi> 13.4. in all; marke this: here's no excep<g ref="char:EOLhyphen"/>tion; yet it would have been here or ſomewhere if it had been un<g ref="char:EOLhyphen"/>lawfull, either in kindred or Miniſters, as the Popiſh doctors teach, for lucres ſake, as is formerly mentioned. But we are to beware of ſuch as would ſpoile us through vaine deceipt, that fol<g ref="char:EOLhyphen"/>low the traditions of men, the rudiments of the world, and not after Chriſt
+<note n="*" place="margin">Coloſ. 28.</note>, ſo then the works of the fleſh are manifeſt, which are theſe, <hi>Adultery, fornication, uncleanneſſe, laſciviouſneſse, idolatry, witch<g ref="char:EOLhyphen"/>craft, hatred, variance, emulation, wrath, ſtrife, ſeditious hereſies envy<g ref="char:EOLhyphen"/>ings murders, drunkenneſse,</hi> with many others, &amp;c. But as touching
+<note n="*" place="margin">Gal. 5.19,20.</note> the holy inſtitution of marriage intended, according to the Ordi<g ref="char:EOLhyphen"/>nance
+<pb n="12" facs="tcp:159866:7"/> with true love and ſincerity of heart; we finde no exception in any degree or profeſſion. And if the prohibition in the law for<g ref="char:EOLhyphen"/>merly mentioned, were meant of marriage, as it is fully and amply proved to intend <hi>fornication onely,</hi> becauſe of the practice in mar<g ref="char:EOLhyphen"/>rying with their next of kin, as well after as before, for<g ref="char:EOLhyphen"/>merly proved alſo: yet were it not binding now, for we under<g ref="char:EOLhyphen"/>ſtand the Law contained in Ordinances to be
+<note n="*" place="margin">Epheſ. 2.15.</note> aboliſhed. And againe, blotting out the hand-writing of Ordinances that was a<g ref="char:EOLhyphen"/>gainſt us, nayling it to the Croſſe, <hi>Coloſ.</hi> 2. 14. for the Prieſthood being changed, there is made of neceſſity alſo a change of the Law,
+<hi>Heb.</hi> 7. 12. obſerve alſo the ſecond of the <hi>Corinthians,</hi> There is a veile in reading of the old Teſtament, which veile is taken away in Chriſt, <hi>and</hi>
+               <note n="*" place="margin">Ch. 3. v. 14, 17.</note> 
+               <hi>where the Spirit of the Lord is, there is liberty.</hi> But how, what liberty? to doe the works of the fleſh, formerly touched; no, God forbid, The holy Ghoſt will witneſſe with thoſe that the Lord hath made his Covenant with, he will put lawes into their hearts, and in their minds will he write them, their ſinnes and iniquities will he remember no
+<note n="*" place="margin">Heb 10.16, 17.</note> more. And in 1
+<hi>Tim</hi> 4.9. <hi>The law is not made for a righteous man,</hi> (ſuppoſing ſuch a one as contriveth not againſt a good conſcience)
+<hi>but for the lawleſſe, diſobedient, ungodly, whore<g ref="char:EOLhyphen"/>mongers, liers, ſtealers, &amp;c.</hi> And in 2 <hi>Tim.</hi> 3. we have a large de<g ref="char:EOLhyphen"/>ſcription of ſuch as have no teſtimony of the good Spirit, but are called perilous, viz. <hi>Lovers of themſelves, covetous, boaſters, proud, blaſphemers, diſobedient, unthankefull, unholy, truce-breakers, falſe ac<g ref="char:EOLhyphen"/>cuſers, incontinent, fierce, traytors, highminded, having a forme of god<g ref="char:EOLhyphen"/>lineſſe, but denying the power thereof: And of this ſort are they which creep into houſes, leading captive ſilly women laden with ſins, led away with divers luſts, ever learning, but never able to come to the knowledge of the truth. Now as James and Jambres withſtood Moſes, ſo doe theſe alſo reſiſt the truth, men of corrupt minds, &amp;c.</hi> Then was the chiefe Magiſtrate withſtood; how is it now; if this <hi>portion of Scripture</hi> ſtrike not point blanke at this very age and time wherein we live, let ſome that are learned informe us better.</p>
+            <p>So then we perceive by this <hi>Tract</hi> and all the reſt, it is fornication, uncleanneſſe, and theſe forenamed works of the fleſh, which is for<g ref="char:EOLhyphen"/>bidden; but for that excellent and ſacred inſtitution of marriage, from which Ordinance the bleſſed elect of Gods children doe pro<g ref="char:EOLhyphen"/>ceed; that holy Order, we ſee, is honourable amongſt all with<g ref="char:EOLhyphen"/>out
+<pb n="13" facs="tcp:159866:7"/> exception, as is formerly proved. Now then without all diſpute that marriage is moſt juſt, which is made without any ambitious or covetous end; and if this liking and mutuall cor<g ref="char:EOLhyphen"/>reſpondency happen betwixt the neereſt of kindred, then is it alſo the moſt naturall, the moſt lawfull, and according to the <hi>primitive purity</hi> and practice: nor is there now any <hi>Popiſh Canons</hi> to reſtraine it, which perhaps ſome conſciences might boggle at in regard of the precept, <hi>you are to obey the Magiſtrate for conſcience ſake.</hi> And in<g ref="char:EOLhyphen"/>deed we would not argue any thing here againſt higher powers that are in true orthodox authority; but onely deſire that no Law or prohibition ſhould bind the conſcience in matters that the <hi>Goſ<g ref="char:EOLhyphen"/>pell of Chriſt</hi> hath left free unto Chriſtian people: And if we can judge aright all theſe works of the fleſh formerly recited, from ſe<g ref="char:EOLhyphen"/>verall Texts in Seripture, did never ſo much abound; and no mar<g ref="char:EOLhyphen"/>vell, for what fruit can be expected from baſtard Plants? or what match is made amongſt a thouſand, or perhaps amongſt ten thou<g ref="char:EOLhyphen"/>ſand without <hi>ambition covetouſneſſe, inordinate appetite,</hi> or ſome collaterall reſpect; pardon the plainneſſe of the phraſe, for I have read of a Law (as I now remember) amongſt the <hi>Spartans,</hi> viz. No man ſhould give a dower in marriage with his daughter; then did the beſt men ſeeke to acquire the moſt vertuous women: and who, (then they) flouriſhed more in Arts and Armes? Now if the Patri<g ref="char:EOLhyphen"/>arks, our fore-fathers, choſe their kindred in obedience to a duty commanded; the Heathens tooke wives for their vertues; and yet we Chriſtians will have none <hi>but for money,</hi> the attribute aforeſaid deſerves the leſſe rebuke.</p>
+            <p>Well then, let us avoyd communities, which is reported to be maintained by ſome late ſects: let us avoyd fornication with all, and by all meanes, with our kindred; for that is the higheſt de<g ref="char:EOLhyphen"/>gree of fornication, as is formerly declared: But for holy wedlock, where there is hope of propagation, and hearts conſenting, as is proved to be the duty of the
+<hi>next kinſman,</hi> ſo was there never more cauſe to ſhake off the Popiſh thraldome, and to revive that Pri<g ref="char:EOLhyphen"/>mitive cuſtome, ſeeing by theſe late and common calamities) ſo many thouſand families are forced from their habitations, which they have honeſtly laboured for, and for ought they know, muſt ſtarve and periſh, <hi>at ſome have already done,</hi> if they cannot finde a dwelling more remote: therefore we muſt be of opinion with ſuch <pb n="14" facs="tcp:159866:8"/> as do account mulct and puniſhments an Antichriſtian yoke, where they are impoſed upon the conſcience, but moſt eſpecially when there is neither act nor intention againſt the ſervice of God, or pre<g ref="char:EOLhyphen"/>judice to our Chriſtian brethren; and here we remember the ſaying
+<note place="margin">2 Cor. 13.2.</note> of Saint <hi>Paul, Be of one mind, live in peace.</hi>
+            </p>
+            <p>Now then, to cloſe up all by asking of a queſtion: If in ſuch a caſe honeſt women (that have no portion to beſtow them, thorough the cauſes aforeſaid) ſhould require this duty from the next of kin, whether (upon refuſall) their ſaid kinſman deſerve not the re<g ref="char:EOLhyphen"/>proach mentioned in the ſtory of <hi>Boas</hi> and <hi>Ruth;</hi> and as touching the
+<note n="*" place="margin">Deut. 25.5.</note> 
+               <hi>raiſing of ſeed</hi> from one brother to another formerly recited at large in the beginning of this diſcourſe; ſurely they doe and muſt anſwer in their great account for the <hi>miſearriage</hi> of their kinſwomen, if ſo it happen; yet we are not ignorant the Civill law ſaith, an <hi>
+                  <g ref="char:V">Ʋ</g>nkle</hi> to his <hi>Neece</hi> is in <hi>loco parentis,</hi> and that they ſay is a bar in marriage; but (ſetting Law and evill Cuſtome aſide) we demand (in reaſon) how he can ſtand her in better ſteed then to marry her if ſhe be willing, and hath no means to be otherwaies provided.</p>
+            <p>We are commanded to feare God and the King, and not to meddle with them that are ſeditious. Neither are theſe things mo<g ref="char:EOLhyphen"/>ved out of nicety, or by way of <hi>paradox,</hi> or as St <hi>Paul</hi> ſpeaks, <hi>of</hi>
+               <note n="*" place="margin">1 Tim. 6.</note> 
+               <hi>doting queſtions, or ſtrife of words, whereof comes envy, and perverſe diſputings<g ref="char:punc">▪</g>
+               </hi> or as ſome cite Scripture to cloake their deceipt and hypocriſie: but onely to finde out the truth, which if thoſe that are Orthodoxly learned will take paines to reſolve, it will be a charitable worke, to ſatisfie the conſciences of ſome leſſe learned, who are likely to ſeeke habitations in <hi>forrain Countreys,</hi> and would in diſcharge of their duties doe that which they conceive to be moſt juſt, viz. without <hi>ambitious or covetous ends,</hi> adventure upon the firſt
+<hi>Inſtitution.</hi>
+            </p>
+            <p>Now we know the vulgar ſort (that lookes no further then the times they live in) will bogle at this doctrine, and thinke it a
+<hi>Na<g ref="char:EOLhyphen"/>vell.</hi> Then here we will put you in mind of what ſome of you do yet remember; namely, a quality of two eminent men eſteemed very wiſe (eſpecially in the lawes) the one would not abide a <hi>ſhol<g ref="char:EOLhyphen"/>der of Veale,</hi> the other did not love a <hi>Duek:</hi> what would you have thought theſe men wiſe to proclaime it unlawfull for any other <pb n="15" facs="tcp:159866:8"/> to eate theſe kind of meats, becauſe they did not love them? ſurely no, you would have held them rediculons: So our queſtion is not how any mans appetite likes, or diſlikes; we onely deſire to know yea, or no, whether the matter in it ſelfe be unlawfull, or where it is repugnant to Scripture, when all places of <hi>this ſubject</hi> are com<g ref="char:EOLhyphen"/>pared together. And if it be controverted (not with Heathen fa<g ref="char:EOLhyphen"/>bles, or mens bare opinions, but by Scripture proofe) by one that is learned, and of a refin'd wit, it may ſatisfie; but if it come from a young head not halfe codled, or from one that is old and
+<note place="margin">Note.</note> doting, or from any that is popiſh or illiterate, tis ten to one ſuch judgement will be renounced, or at leaſt ſuſpected.</p>
+            <p>Some other queſtions we intended to move, as namely, thoſe at the latter end of M<hi rend="sup">r</hi> 
+               <hi>Smiths</hi> Sermon, entituled, <hi>The loſt ſheep is found,</hi> which yet we have not heard any anſwer unto; and why through Popiſh <hi>ſuperſtition</hi> on the one ſide, and diverſity of
+<hi>Schiſms</hi> and <hi>Sects</hi> of the other ſide, there is yet no certaine frame of Diſcipline ſetled to confirme the weake and wavering Chriſtian: Or (ſeeing we have found ſo much fault with <hi>Turke</hi> and
+<hi>Pope</hi> for their bloody <hi>tenents;</hi> and that the weapons of the Church are <hi>preces &amp; lacrymas,</hi> prayers and teares) whether that will prove a good Religion which is ſetled or maintained by the Sword; but if theſe be firſt reſolved to be as they are here conceived, or otherwiſe convinc'd of errour by <hi>Scripture proofe;</hi> we may then have encouragement to move ſome other things neceſſary for the confirmation of our ſelves and others <hi>LA<g ref="char:V">Ʋ</g>S DEO.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p n="1">1. <hi>WE have lately ſeen a little Booke which ſaith, the ſinne againſt the holy Ghoſt hath hitherto been miſtaken.</hi>
+            </p>
+            <p n="2">2. <hi>We have ſeen another maintaine that</hi> Independency <hi>is no Schiſm.</hi>
+            </p>
+            <p n="3">3. <hi>We have ſeen another maintaine (out of Scripture) that our Saviour Chriſt ſhall live</hi> 1000 <hi>yeers with his Saints upon earth.</hi>
+            </p>
+            <p n="4">4. <hi>We have ſeen books writ againſt baptizing of Infants, though the cuſtome hath been ſo for</hi> 1400 <hi>yeeres.</hi>
+            </p>
+            <p n="5">5. <hi>We ſee the Office of Biſhops of no repute, though their Function hath</hi> 
+               <pb n="16" facs="tcp:159866:9"/> 
+               <hi>continued ſince the time of the Apoſtles; and what Hereſies were by them refuted in the firſt four generall Counſels?</hi>
+            </p>
+            <p n="6">6. <hi>We know our own King</hi> Henry <hi>the</hi> 8.
+<hi>married his brothers wife, and put her away, and tooke another, which we cannot approve of.</hi>
+            </p>
+            <p n="7">7. <hi>We have heard that</hi> Martin Luther <hi>married a Nun, (which in the Popes opinion) was a greater treſpaſſe then if he had married his naturall ſiſter; And in feare of the preſident the holy Father thundered out his Ex<g ref="char:EOLhyphen"/>communications; but the honeſt</hi> Doctor
+<hi>(to requite him) ſaid he would open a gap that all the buſhes in</hi> S<hi rend="sup">t</hi> Peters patrimony <hi>ſhould not ſtop a<g ref="char:EOLhyphen"/>gaine, and
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as good as his word.</hi>
+            </p>
+            <p>Theſe things conſidered, our little Diſcourſe (that maintaines nothing poſitively, but asketh queſtions, under correction) will not be ſtrange to them that are judicious, however it ſeem ſtrange to ſuch as will laugh at their ſhadow.</p>
+            <epigraph>
+               <bibl>Salo.</bibl>
+               <q>
+                  <hi>Nothing remains certain under the Sunne.</hi>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
